@@ -1,0 +1,29 @@
+# IDE files and directories
+
+.idea/
+
+.gradle/
+
+build/
+
+*.iml
+
+local.properties
+
+# Keystore files
+
+*.jks
+
+*.keystore
+
+# Google services
+
+/app/google-services.json
+
+# Log files
+
+*.log
+
+# Caches
+
+.kotlin/
