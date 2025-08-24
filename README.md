@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="Images/10060-removebg-preview.png" width="20%" alt="EcoleConnect Logo" />
+</div>
 # Pronote Redesign: Reimagining the educational experience with Material You 3 Expressive
 
 ## 🚀 Project Vision
