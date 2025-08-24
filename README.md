@@ -4,7 +4,7 @@
 
 This project's vision is to transform Pronote from a purely functional tool into an engaging educational companion that delights users while maintaining all core functionality.
 
-!(http://googleusercontent.com/file_content/1)
+
 
 ---
 
@@ -18,13 +18,17 @@ While the current Pronote application is comprehensive and functional, it has se
 | | 🤔 **User Experience** (Medium): There is limited visual hierarchy and information organization. |
 | | ❤️ **Engagement** (Medium): The app lacks emotional connection and personalization. |
 
-!(http://googleusercontent.com/file_content/0)
+
 
 ---
 
 ## ✨ Design Direction & Principles
 
-The redesign is guided by the core principles of Material You 3 Expressive, focusing on creating a more personal, adaptive, and expressive interface.
+The redesign is guided by the core principles of Material You 3 Expressive, focusing on creating a more adaptive, and expressive interface.
+<img src="Images/Screenshot_20250824-104909.png" width="20%" alt="Redesigned Home Screen" />
+<img src="Images/Screenshot_20250824-104918.png" width="20%" alt="Redesigned Home Screen" />
+<img src="Images/Screenshot_20250824-104930.png" width="20%" alt="Redesigned Home Screen" />
+<img src="Images/Screenshot_20250824-104944.png" width="20%" alt="Redesigned Home Screen" />
 
 ### Key Transformation Areas
 * From rigid layouts to organic, flowing designs.
@@ -34,6 +38,3 @@ The redesign is guided by the core principles of Material You 3 Expressive, focu
 
 ### Color & Typography
 The design system uses a primary palette of Teal and a secondary palette of Amber as the default theme for brand consistency. It leverages Material You's dynamic color system to adapt to user wallpapers
-
-!(http://googleusercontent.com/file_content/2)
-!(http://googleusercontent.com/file_content/3)
