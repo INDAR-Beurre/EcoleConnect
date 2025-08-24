@@ -25,6 +25,7 @@ While the current Pronote application is comprehensive and functional, it has se
 ## ✨ Design Direction & Principles
 
 The redesign is guided by the core principles of Material You 3 Expressive, focusing on creating a more adaptive, and expressive interface.
+
 <img src="Images/Screenshot_20250824-104909.png" width="20%" alt="Redesigned Home Screen" />
 <img src="Images/Screenshot_20250824-104918.png" width="20%" alt="Redesigned Home Screen" />
 <img src="Images/Screenshot_20250824-104930.png" width="20%" alt="Redesigned Home Screen" />
